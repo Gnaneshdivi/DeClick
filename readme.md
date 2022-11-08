@@ -1,7 +1,7 @@
 
 # De-Click
 
-## summery
+## Summary
 
 It is a Whatsapp plugin that acts as a layer between the layman and the web3 universe. This plugin incorporates the functionalities of a wallet and the feature of minting Dynamic and static NFTs.As a wallet, it does Interchain and intra-chain Transactions. All these features are done with less than 5 messages and also creates notification when tokens are transacted into your wallet.
 
@@ -9,7 +9,7 @@ It is a Whatsapp plugin that acts as a layer between the layman and the web3 uni
 Hello, this is Team ~Binary, We believe in a very easy, simple, and layman's life. So the projects we design are totally amateur about the complexities but mature about the use case. With this description of the team, we introduce you to our work DeClick.
 
 ## Inspiration
-Web3 ecosystem as a whole visualizes to see a world running on web3 technologies but it is one of the composite technologies existing in this era. Everyone is interested in utilizing the strength given by blockchain. Developers have been working on this vigorously to transform complex applications into easily accessible platforms.
+Web3 ecosystem as a whole visualizes to see a world running on web3 technologies but it is one of the composite technologies existing in this era. Everyone is interested in adopting blockchain Technology. Developers have been working on this vigorously to transform complex applications into easily accessible platforms.
 In this process of innovation, our team binary was hit by the idea of making it a plugin for multiple communication channels. We can up with a plugin to serve different components of web3 like cryptos and NFTs.This plugin can be integrated as a webhook to any of the communication channels like WhatsApp, discord, telegram, etc.
 
 ## How is DeClick different!!!
